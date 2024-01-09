@@ -1,0 +1,30 @@
+.Home{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+  width: 75vw;
+  margin: 4% 10%;
+  border: 2px solid black;
+  background-color: wheat;
+}
+h1{
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+}
+.title{
+  background-color: aqua;
+  border: 0.5px solid black;
+}
+.update{
+  height: 250px;
+  width: 400px;
+  margin-top: 7%;
+  background-color: yellow;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+}
